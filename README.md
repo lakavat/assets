@@ -1,1 +1,1 @@
-# assets
+# example code of assets
