@@ -1,0 +1,180 @@
+.section-a{
+   background: rgba(0, 0, 0, 0) linear-gradient(to right, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%) repeat scroll 0 0;
+   font-family: 'Poppins', sans-serif;
+  
+}
+ul{
+    list-style-type:none;
+    text-decoration:none;
+}
+ul li{
+    list-style-type:none;
+    float:left;
+    margin: 0% 3%;
+    color:white;
+    font-family:sans-serif;
+    
+}
+ul li a{
+    float:left;
+    color:white;
+    text-decoration:none;
+    font-weight: 700;
+    padding:0px !important;
+    line-height:50px !important;
+
+}
+ul li a:hover{
+    background-color:#00b9ff00 !important;
+    color:white;
+}
+.headding{
+    font-size:30px;
+    color:white;
+}
+.headding-color{
+    color:white;
+    font-family:sans-serif;
+    font-weight:600;
+    font-size:30px;
+}
+.mobile-add{
+    color:white;
+    margin: 10% 0%;
+
+}
+.btn-size{
+    font-size: 30px;
+    padding: 12px 52px 12px 52px;
+    line-height: 1.42857143;
+
+}
+.carousel-slide-a{
+    margin: -121% 0% 0% 3%;
+    width: 60%;
+
+}
+.nav-bar-list-style{
+    display: flex;
+    width: 34%;
+}
+.brand-color{
+    color:white;
+    font-size:30px;
+    font-weight:700;
+}
+.brand-color:hover{
+    color:white;
+}
+.navbar-pad{
+    padding:10px 0px;
+}
+/* .........................carousel-text...............................................................*/
+.carousel-content {
+    color:black;
+    display:flex;
+    align-items:center;
+}
+
+#text-carousel {
+  width: 100%;
+  height: auto;
+  padding: 50px;
+}
+.carousel-content-style{
+    color:white;
+}
+.text-color{
+    color:white;
+}
+.text-font-size{
+    font-size:20px;
+    margin: 10% 0% 0% 0%;
+
+}
+.text-font-weight{
+    font-weight:600;
+}
+.mobile-text-head{
+    font-size:40px;
+    font-weight:600;
+}
+.slides-margin{
+    margin:0;
+}
+.text-carousel-margin{
+    margin: 0% 30%;
+}
+/* ...........section-b........ */
+.section-what-we-do{
+    text-align:center;
+    margin: 4% 0%;
+}
+.image-property{
+    width:150px;
+    height:150px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+.text-align-items{
+    text-align:center;
+    color: white;
+}
+.what-we-do-margin{
+    margin:0 !important;
+    padding: 0% 5%;
+}
+.what-we-do-margin-a{
+    margin:0 !important;
+    padding: 6% 5%;
+}
+.what-we-do-margin-b{
+    margin:0 !important;
+    padding: 0% 5% 0% 5%;
+}
+.icons-background{
+    background-image: linear-gradient(90deg, #75D3D3, #33B0D1);
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin:0 auto;
+    padding: 8% 0% 0% 0%;
+}
+.what-we-do-font{
+    font-weight:600;
+    color:#675f5f;
+}
+/* ....................................section-c.................................. */
+.social-icons{
+    text-align:center;
+    margin: 4% 0%;
+}
+.social-text-font{
+    font-weight:600;
+    color:#675f5f;
+}
+.social-icons-margin{
+    margin:0 !important;
+    padding: 0% 5% 0% 5%;
+}
+/* ...................................section-d................................. */
+.image-size{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    
+}
+.team-images{
+    display:block;
+    margin:0 auto;
+    text-align:center;
+    border:2px solid;
+}
+.total-team-padding{
+    padding: 0% 6%;
+}
+.font-icons-paddig{
+    padding: 10px;
+    border-radius: 50%;
+}
