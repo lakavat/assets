@@ -1,3 +1,7 @@
+.total-body{
+    background-color: #f7f7f9;
+}
+
 .section-a{
    background: rgba(0, 0, 0, 0) linear-gradient(to right, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%) repeat scroll 0 0;
    font-family: 'Poppins', sans-serif;
@@ -169,12 +173,123 @@ ul li a:hover{
     display:block;
     margin:0 auto;
     text-align:center;
-    border:2px solid;
+    border:px solid;
+    padding: 5% 0%;
+    background:white;
 }
 .total-team-padding{
     padding: 0% 6%;
 }
-.font-icons-paddig{
-    padding: 10px;
+.li-icon{
+    padding: 7px 8px;
     border-radius: 50%;
+    color: #50d1c0;
+   
+    
 }
+.tw-icon{
+    padding: 7px 8px;
+    border-radius: 50%;
+    color: #50d1c0;
+}
+.fb-icon{
+    padding: 7px 10px;
+    border-radius: 50%;
+    color: #50d1c0;
+}
+.gt-icon{
+    padding: 8px;
+    border-radius: 50%;
+    color: #50d1c0;
+}
+.li-icon:hover{
+    background:#50d1c0;
+    box-shadow:rgba(0, 0, 0, 0) 1px 1px 6px 1px;
+    color:white;
+   
+}
+.tw-icon:hover{
+    background:#50d1c0;
+    box-shadow:rgba(0, 0, 0, 0) 1px 1px 6px 1px;
+    color:white;
+   
+}.fb-icon:hover{
+    background:#50d1c0;
+    box-shadow:rgba(0, 0, 0, 0) 1px 1px 6px 1px;
+    color:white;
+   
+}.gt-icon:hover{
+    background:#50d1c0;
+    box-shadow:rgba(0, 0, 0, 0) 1px 1px 6px 1px;
+    color:white;
+   
+}
+.social-icon-text-decoration:hover{
+    text-decoration:none;
+}
+.pera-size{
+    font-weight:600;
+    color:#675f5f;
+}
+/* .............................section-e........................... */
+.section-e{
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%) repeat scroll 0 0;
+    padding: 1% 0% 5% 0%;
+    margin:7% 0px 0px 0px;
+}
+.project-type{
+    display:block;
+    margin:0 auto;
+    text-align:center;
+    border:px solid;
+    padding: 5% 0%;
+    background:white;
+    font-weight:600;
+    color: #675f5fb0;
+    border-radius: 5px;
+}
+.project-text-font{
+    font-weight:600;
+    color:#675f5f;
+}
+.project-text-font-color{
+    font-weight:600;
+    color:#50d1c0;
+}
+.btn-padding{
+    border: 1px solid #50d1c0 !important;
+    border-radius: 100px;
+    color: #50d1c0 !important;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    min-width: 150px;
+    padding: 13px 30px;
+    text-decoration: none;
+    background: transparent;
+    margin: 0px 0px 10px 0px;
+   
+}
+.btn-padding-active{
+    border: 1px solid #50d1c0;
+    border-radius: 100px;
+    background-color: #50d1c0;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    min-width: 150px;
+    padding: 13px 30px;
+    text-decoration: none;
+    background: transparent;
+    margin: 0px 0px 10px 0px;
+
+}
+.social-text-font-color{
+    font-weight: 600;
+    color: white;
+}
+.pera-size-color{
+    font-weight: 600;
+    color: white; 
+}
+/* ...................section-f............................ */
